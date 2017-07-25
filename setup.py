@@ -5,9 +5,9 @@ if __name__ == "__main__":
         name='friendly_computing_machine',
         version="0.1.1",
         description='A starting template for Python programs',
-        author='Daniel Smith',
-        author_email='dgasmith@vt.edu',
-        url="https://github.com/dgasmith/friendly-computing-machine",
+        author='Alan Rask',
+        author_email='aerask@umich.edu',
+        url="https://github.com/aerask/friendly-computing-machine",
         license='BSD-3C',
         packages=setuptools.find_packages(),
         install_requires=[
